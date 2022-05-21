@@ -1,0 +1,17 @@
+JSON
+	- JavaScript Object Notation
+
+1. 미션
+	- Naver OpenAPI 파파고 사용해보기
+	- java에서 정상 실행되도록
+	
+2. 참조 url
+	https://developers.naver.com/docs/papago/papago-nmt-example-code.md#java
+	
+3. 주목적
+	1. 실행 가능하게 
+	2. Naver API 수준 파악
+	3. 사용된 API 탐색
+		- 웹 학습 시에 더 효율적으로 학습 가능하게함.
+		
+4. 2시 11분에 출석.

@@ -1,0 +1,34 @@
+1. 기능
+	- 데이터를 구조화해서 활용 가능하게 해주는 포멧
+	
+2. 장점
+	- 데이터 구분은 명확하면서도 네트웍상에서 가볍게(경량급) 사용 가능한 포멧
+	
+3. 활용도
+	- 서버와 client 간에 통신 데이터로 굉장히 많이 사용 됨.
+	
+4. 문법
+	- 1. {"key1" : "value1", "key2" : "value2", ....}
+	- 2. 중첩 포멧
+		{
+			"key1" : {"key1" : "value1", "key2" : "value2", ...}
+			"key2" : {"key1" : "value1", "key2" : "value2", ...}
+		}
+		
+5. 사용의 장점
+	1. 모든 언어가 json을 지원
+	2. json 포멧으로 변환해주는 API 및 json을 순수 문자열로 변화해주는 API 넘쳐남
+	
+6. 주요 사이트
+	1. pe.kr : 개인 사이트
+	2. com or co.kr : 영리 목적의 회사들
+	3. org : 비영리
+	...
+	4. json 포멧의 문법 및 용도 설명과 각 언어별 지원되는 library들 소개
+		https://json.org
+		
+	6. json 포멧 검증 사이트들 존재
+		https://jsonformatter.org/json-viewer
+	
+		
+	
